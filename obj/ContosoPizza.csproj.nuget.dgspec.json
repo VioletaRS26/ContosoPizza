@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza/ContosoPizza.csproj": {}
+    "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza.csproj": {}
   },
   "projects": {
-    "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza/ContosoPizza.csproj": {
+    "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza/ContosoPizza.csproj",
+        "projectUniqueName": "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza/ContosoPizza.csproj",
+        "projectPath": "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza.csproj",
         "packagesPath": "/home/20211ewbj0264/.nuget/packages/",
-        "outputPath": "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/ContosoPizza/obj/",
+        "outputPath": "/home/20211ewbj0264/Documentos/MouraTech/DotNet/ContosoPizza/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/20211ewbj0264/.nuget/NuGet/NuGet.Config"
